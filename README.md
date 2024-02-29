@@ -32,10 +32,10 @@ Embedded Servers:
 Tables Used - Products, Users, Ratings, Categories
 
 Rest API's:
-1) Fetch products By Category when click on NavBar implemeted using paging and sorting mechanism
-2) User SignIn
-3) User Registration
-4) Fetch products from Top rated products on page load 
+1) Fetch products by category when click on NavBar implemeted using paging and sorting mechanism
+2) JWT-Authentication based User SignIn and Registration 
+3) Products Create, Delete and Update using CRUD operations.
+4) Fetch products from Top ratings on page load 
 5) Search products using keywords from title and description
 6) Fetch Top branded products on page Load
 
