@@ -1,4 +1,5 @@
-# FullStackProject
+# FullStackProject 
+NOTE: PLEASE SCROLL BELOW FOR WEB PAGE IMAGES
 1. Introduction:
     Designed an e-commerce website homepage to offer customers online shopping experience for home decoration products which allows customer to effortlessly navigate
 through wide range of products with filters based on the top rated choices, preferred brands and specific categories which provides efficient shopping journey.
